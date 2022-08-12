@@ -3040,7 +3040,7 @@
         "description": "14 regular"
       },
       "X-Large": {
-        "value": "{Base.Paragraph.Large.Default.Regular}",
+        "value": "{Base.Paragraph.X-Large.Default.Regular}",
         "type": "typography",
         "description": "16 regular"
       }
