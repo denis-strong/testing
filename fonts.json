@@ -1822,7 +1822,7 @@
                 "fontSize": "{font-size.16}",
                 "letterSpacing": "{letter-spacing.title.x-small}",
                 "paragraphSpacing": "{paragraph-spacing.title.x-small}",
-                "textCase": "{text-case.none}",
+                "textCase": "{text-case.upper}",
                 "textDecoration": "{text-decoration.none}"
               },
               "type": "typography",
@@ -1850,7 +1850,7 @@
                 "fontSize": "{font-size.16}",
                 "letterSpacing": "{letter-spacing.title.x-small}",
                 "paragraphSpacing": "{paragraph-spacing.title.x-small}",
-                "textCase": "{text-case.none}",
+                "textCase": "{text-case.upper}",
                 "textDecoration": "{text-decoration.none}"
               },
               "type": "typography",
@@ -3124,5 +3124,15 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Core",
+      "Typography",
+      "Semantic",
+      "Arangrant",
+      "Priceline",
+      "Underpricer"
+    ]
+  }
 }
